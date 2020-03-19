@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": [
+            {
+                "text": "Make item frames invisible!",
+                "color": "dark_aqua"
+            }, "\n",
+            {
+                "text": "Origami Games :: 1.16+",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}
