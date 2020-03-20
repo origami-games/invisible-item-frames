@@ -12,4 +12,4 @@ When reporting:Â You can submit a bug report through the [Invisible Item FramesÂ
 
 ---
 
-![Imgur](https://i.imgur.com/2CnOZ3ml.gif)
+![demo.gif](/docs/assets/demo.gif)
