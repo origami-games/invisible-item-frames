@@ -9,3 +9,7 @@ https://origami-games.github.io
 ## Troubleshooting and Reporting Issues
 Before reporting: Try if you can reproduce your issue when using a freshly setup world using the latest version of Minecraft in vanilla, Invisible Item Frames (with default configuration), and no other data packs. This can already give insights on whether your version (Invisible Item Frames actively supports 1.16+) or another data pack is involved in the issue.
 When reporting: You can submit a bug report through the [Invisible Item Frames GitHub repo](https://github.com/origami-games/invisible-item-frames/issues)
+
+---
+
+![Imgur](https://i.imgur.com/2CnOZ3ml.gif)
